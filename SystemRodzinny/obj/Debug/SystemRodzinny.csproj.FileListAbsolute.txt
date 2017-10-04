@@ -1,6 +1,0 @@
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\bin\Debug\SystemRodzinny.exe.config
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\bin\Debug\SystemRodzinny.exe
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\bin\Debug\SystemRodzinny.pdb
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\obj\Debug\SystemRodzinny.exe
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\obj\Debug\SystemRodzinny.pdb
-C:\Users\Konrad\documents\visual studio 2015\Projects\Cwiczenia Marcin Lis\SystemRodzinny\obj\Debug\SystemRodzinny.csprojResolveAssemblyReference.cache
